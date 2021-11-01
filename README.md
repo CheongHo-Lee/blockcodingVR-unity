@@ -1,8 +1,8 @@
 # blockcodingVR-unity
 > This project is a VR block coding system for coding education.
 <p>
-  <a href="https://github.com/sangwookyoo/" target="_blank"><img src="https://img.shields.io/badge/SangwookYoo-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <a href="mailto:tkddnr032@gmail.com" target="_blank"><img src="https://img.shields.io/badge/tkddnr032@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/CheongHo-Lee/" target="_blank"><img src="https://img.shields.io/badge/CheongHoLee-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="mailto:dlcjdgh99@naver.com" target="_blank"><img src="https://img.shields.io/badge/dlcjdgh99@naver.com-brightgreen?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/unity3d-2019.3.5-blue?style=flat-square&logo=unity"></a>
 </p>
 
